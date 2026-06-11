@@ -25,20 +25,32 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1780" height="1335" alt="image" src="https://github.com/user-attachments/assets/039fb0a6-07e5-440c-9a43-acd61607474c" />
 
 
 
 **Model graph:**
 
+<img width="1731" height="1299" alt="image" src="https://github.com/user-attachments/assets/445f48f7-9fc3-466e-8c4a-c1e7f723b8f9" />
 
 
 
 **TABULATION:**
+<img width="1915" height="1436" alt="IMG20260602112443" src="https://github.com/user-attachments/assets/c98a503d-ed98-41ea-84f3-11337f71d2df" />
 
 
 **Calculation:**
 
+<img width="1519" height="1744" alt="image" src="https://github.com/user-attachments/assets/d05de247-ece8-451b-aa8b-35156175476c" />
 
+**OUTPUT:**
+
+*FOR SERIES RLC CIRCUIT:*
+<img width="1916" height="800" alt="image" src="https://github.com/user-attachments/assets/39d41ea5-8615-49cb-b128-476a14abcc8a" />
+
+
+*FOR PARALLEL RLC CIRCUIT:*
+<img width="1916" height="800" alt="image" src="https://github.com/user-attachments/assets/28251eb3-ab56-4124-acc9-22e3981682e7" />
 
 
 **PROCEDURE:**
@@ -52,7 +64,6 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
-**Mark split up:**
 
 **RESULT:**
 
